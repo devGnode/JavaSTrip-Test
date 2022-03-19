@@ -1,0 +1,10 @@
+# intelliJ
+.idea/
+config/
+# node
+node_modules/
+
+*.properties
+
+#
+package-lock.json
