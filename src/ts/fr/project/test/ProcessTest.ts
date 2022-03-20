@@ -18,7 +18,7 @@ export class ProcessTest {
         let redirect:ProcessBuilder = ProcessBuilder.of("chromedriver.exe", "--help");
 
         redirect
-            .setDirectory(new File("C:\\Users\\Maroder\\Documents\\Zenity\\Selenium_airbnb\\drivers"))
+            .setDirectory(new File("PATH"))
             .setEnvironment()
             .inheritIO()
             //.redirectOutputFile(new File("./testing/msn.txt"))
