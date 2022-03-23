@@ -5,7 +5,7 @@ import {IOException} from "lib-utils-ts/src/file/IOException";
 /**
  * Read stdin buffer
  */
-export class SystemTest {
+export class SystemInTest {
 
     public static Main(argv:String[]):void{
 

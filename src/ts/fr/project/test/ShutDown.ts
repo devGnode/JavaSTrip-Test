@@ -4,7 +4,7 @@ import {HookThread} from "lib-utils-ts/src/lang/HookThread";
 import {Runtime} from "lib-utils-ts/src/lang/Runtime";
 import {UUID} from "lib-utils-ts/src/utils/UUID";
 import {CloseProcess} from "lib-utils-ts/src/lang/CloseProcess";
-import {Byte} from "lib-utils-ts/src/primitive/Byte";
+import {Byte} from "lib-utils-ts/src/primitives/Byte";
 import {Shutdown} from "lib-utils-ts/src/lang/Shutdown";
 import {Runnable} from "lib-utils-ts/src/Interface";
 /**

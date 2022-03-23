@@ -16,7 +16,6 @@ export class TestComparators1 {
 
         let listDevs: List<Developer> = TestComparators1.getDevelopers();
 
-
         System.out.println("Before Sort");
         listDevs.stream().each(v=>System.out.println(v));
 
@@ -48,3 +47,4 @@ export class TestComparators1 {
     }
 
 }
+Object.package(this);
