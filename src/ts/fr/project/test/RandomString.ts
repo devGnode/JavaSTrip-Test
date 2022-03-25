@@ -14,3 +14,4 @@ export class RandomString {
 
     }
 }
+Object.package(this);
